@@ -53,7 +53,7 @@ ACC provides a three-layer authorization model using markdown-native configurati
 
 | Document | Description |
 |----------|-------------|
-| [ACC_SPEC.md](./ACC_SPEC.md) | Technical specification (v0.1.0) |
+| [ACC_SPEC.md](./ACC_SPEC.md) | Technical specification (v1.0.0) |
 | [ACC_WHITEPAPER.md](./ACC_WHITEPAPER.md) | Academic whitepaper (10,454 words) |
 | [ACC_WHITEPAPER.tex](./ACC_WHITEPAPER.tex) | LaTeX version for publication |
 | [references.bib](./references.bib) | BibTeX citations |

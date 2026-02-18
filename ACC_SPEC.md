@@ -1,6 +1,6 @@
 # Agent Capability Control (ACC)
 
-**Version:** 0.1.0-draft  
+**Version:** 1.0.0  
 **Status:** RFC  
 **Author:** Ada (Substr8 Labs)  
 **Date:** 2026-02-17
